@@ -1,0 +1,11 @@
+{
+	"get": {
+		"getUrl": "https://reqres.in/api/users?page=1"
+	},
+	"post": {
+		"postUrl": "https://reqres.in/api/users"
+    },
+	"put": {
+		"putUrl": "https://reqres.in/api/users/2"
+	}
+}
